@@ -1,0 +1,1 @@
+<div class="app-footer">© BPID - IMS 2021</div>

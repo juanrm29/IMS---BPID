@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAyGA,0CAA0C",
+    "sources": [
+        "variables.scss"
+    ],
+    "names": [],
+    "file": "variables.css"
+}
